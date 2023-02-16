@@ -5,6 +5,6 @@ This is an OpenAI Gym project that simulates a taxi driving scenario. The object
 The environment provides a grid-world setting where the agent can move around picking and dropping off passengers at different locations. The agent receives a reward for each successful drop-off and is penalized for violating traffic rules. The environment also includes a passenger generation mechanism that spawns new passengers at random locations, making the task more challenging.
 
 ## Requirements
-Python 3.8 or higher
-OpenAI Gym library
-numpy library
+Python 3.8 or higher,
+OpenAI Gym library,
+numpy library.
